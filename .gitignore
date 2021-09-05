@@ -1,0 +1,6 @@
+# sakla.php git algılamaz
+sakla.php
+# dizin/* dizin altındaki dosyaları algılama
+dizin/*
+# !dizin/deneme.php dizin altındaki deneme.php algıla
+!dizin/deneme.php
